@@ -14,7 +14,7 @@ export const NavBar = () => {
             </a>
 
             <a
-              href="/home"
+              href="/teams"
               className="border-b-2 border-transparent hover:text-gray-800  hover:border-blue-500 mx-1.5 sm:mx-6"
             >
               Team
