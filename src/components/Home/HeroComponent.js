@@ -2,40 +2,6 @@ const HeroComponent = () => {
   return (
     <div>
       <header className="bg-white ">
-        <nav className="bg-white ">
-          <div className="container p-6 mx-auto">
-            <div className="flex flex-wrap items-center justify-center mt-2 text-gray-600 capitalize">
-              <a
-                href="/home"
-                className="text-gray-800  border-b-2 border-blue-500 mx-1.5 sm:mx-6"
-              >
-                home
-              </a>
-
-              <a
-                href="/home"
-                className="border-b-2 border-transparent hover:text-gray-800  hover:border-blue-500 mx-1.5 sm:mx-6"
-              >
-                Team
-              </a>
-
-              <a
-                href="/home"
-                className="border-b-2 border-transparent hover:text-gray-800  hover:border-blue-500 mx-1.5 sm:mx-6"
-              >
-                Products
-              </a>
-
-              <a
-                href="/home"
-                className="border-b-2 border-transparent hover:text-gray-800  hover:border-blue-500 mx-1.5 sm:mx-6"
-              >
-                Research
-              </a>
-            </div>
-          </div>
-        </nav>
-
         <div className="container flex flex-col px-6 py-4 mx-auto space-y-6 lg:h-[32rem] lg:py-16 lg:flex-row lg:items-center">
           <div className="flex flex-col items-center w-full lg:flex-row lg:w-1/2">
             <div className="flex justify-center order-2 mt-6 lg:mt-0 lg:space-y-3 lg:flex-col">
