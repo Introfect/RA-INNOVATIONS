@@ -3,39 +3,6 @@ import Footer from "../Footer";
 const Products = () => {
   return (
     <div>
-      <nav className="bg-white ">
-        <div className="container p-6 mx-auto">
-          <div className="flex flex-wrap items-center justify-center mt-2 text-gray-600 capitalize">
-            <a
-              href="/home"
-              className="text-gray-800  border-b-2 border-blue-500 mx-1.5 sm:mx-6"
-            >
-              home
-            </a>
-
-            <a
-              href="/home"
-              className="border-b-2 border-transparent hover:text-gray-800  hover:border-blue-500 mx-1.5 sm:mx-6"
-            >
-              Team
-            </a>
-
-            <a
-              href="/home"
-              className="border-b-2 border-transparent hover:text-gray-800  hover:border-blue-500 mx-1.5 sm:mx-6"
-            >
-              Products
-            </a>
-
-            <a
-              href="/home"
-              className="border-b-2 border-transparent hover:text-gray-800  hover:border-blue-500 mx-1.5 sm:mx-6"
-            >
-              Research
-            </a>
-          </div>
-        </div>
-      </nav>
       <div className="py-16">
         <div className="container m-auto px-6 text-gray-600 md:px-12 xl:px-6">
           <div className="mb-12 space-y-2 text-center">
