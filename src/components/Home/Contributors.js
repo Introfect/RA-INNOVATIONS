@@ -1,3 +1,4 @@
+
 const Contributors=()=>{
     return (
         <div className="flex md:mt-4 flex-wrap justify-evenly">
@@ -94,3 +95,4 @@ const Contributors=()=>{
     )
 }
 export default Contributors;
+
