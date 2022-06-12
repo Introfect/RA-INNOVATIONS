@@ -1,7 +1,7 @@
 const ProductInfo =[
     { 
       alt:"cet immage",
-      tittle:"Product1",
+      tittle:"Product222",
       desc:"Meggings kinfolk echo park stumptown DIY, kale chips beard jianbing tousled. Chambray dreamcatcher trust fund, kitsch vicegodard disrupt ramps hexagon mustache umami snackwave tildechillwave ugh. Pour-over meditation PBR&amp;B pickled ennui celiacmlkshk freegan photo booth af fingerstache pitchfork.",
       img: "https://petkeen.com/wp-content/uploads/2020/06/black-cat-on-top-of-car.jpg"
     },

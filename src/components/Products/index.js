@@ -1,5 +1,3 @@
-import Footer from "../Footer";
-
 const Products = () => {
   return (
     <div>
@@ -98,7 +96,6 @@ const Products = () => {
           </div>
         </div>
       </section>
-      <Footer />
     </div>
   );
 };

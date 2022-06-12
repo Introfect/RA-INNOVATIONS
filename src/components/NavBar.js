@@ -10,7 +10,7 @@ export const NavBar = () => {
               href="/"
               className="text-gray-800  border-b-2 border-blue-500 mx-1.5 sm:mx-6"
             >
-              home
+              Home
             </a>
 
             <a
@@ -25,13 +25,6 @@ export const NavBar = () => {
               className="border-b-2 border-transparent hover:text-gray-800  hover:border-blue-500 mx-1.5 sm:mx-6"
             >
               Products
-            </a>
-
-            <a
-              href="/home"
-              className="border-b-2 border-transparent hover:text-gray-800  hover:border-blue-500 mx-1.5 sm:mx-6"
-            >
-              Research
             </a>
           </div>
         </div>
