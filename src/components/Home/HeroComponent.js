@@ -1,3 +1,5 @@
+import logo from "../../logo/RALOGO.jpeg"
+
 const HeroComponent = () => {
   return (
     <div>
@@ -6,12 +8,12 @@ const HeroComponent = () => {
           <div className="flex flex-col items-center w-full lg:flex-row lg:w-1/2">
             <div className="max-w-lg lg:mx-12 lg:order-2">
               <h1 className="text-3xl font-medium tracking-wide text-gray-800  lg:text-4xl">
-                The best Apple Watch apps
+                RA-INNOVATION
               </h1>
               <p className="mt-4 text-gray-600 ">
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aut
-                quia asperiores alias vero magnam recusandae adipisci ad vitae
-                laudantium quod rem voluptatem eos accusantium cumque.
+              RA Innovations PVT LTD is a private company based in Prasanti Vihar, Bhubaneswar. The primary focus of this company is to develop novel products by integrating traditional indigenous knowledge with modern scientific innovations for the betterment of human life.
+              The vision is to facilitate perpetually sustainable human development.
+              We aim to enhance the quality of every human life through new ideas, science, and innovation.
               </p>
             </div>
           </div>
@@ -19,7 +21,7 @@ const HeroComponent = () => {
           <div className="flex items-center justify-center w-full h-96 lg:w-1/2">
             <img
               className="object-cover w-full h-full max-w-2xl rounded-md"
-              src="https://images.unsplash.com/photo-1579586337278-3befd40fd17a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1352&q=80"
+              src={logo}
               alt="RA-innovations"
             />
           </div>
