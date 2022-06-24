@@ -8,7 +8,7 @@ const HeroComponent = () => {
           <div className="flex flex-col items-center w-full lg:flex-row lg:w-1/2">
             <div className="max-w-lg lg:mx-12 lg:order-2">
               <h1 className="text-3xl font-medium tracking-wide text-gray-800  lg:text-4xl">
-                RA-INNOVATION
+                RA-INNOVATIONS
               </h1>
               <p className="mt-4 text-gray-600 ">
               RA Innovations PVT LTD is a private company based in Prasanti Vihar, Bhubaneswar. The primary focus of this company is to develop novel products by integrating traditional indigenous knowledge with modern scientific innovations for the betterment of human life.
