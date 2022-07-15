@@ -11,9 +11,9 @@ const Products = () => {
               Our Products
             </h2>
             <p className="lg:w-6/12 lg:mx-auto">
-              Quam hic dolore cumque voluptate rerum beatae et quae, tempore
+              {/* Quam hic dolore cumque voluptate rerum beatae et quae, tempore
               sunt, debitis dolorum officia aliquid explicabo? Excepturi,
-              voluptate?
+              voluptate? */}
             </p>
           </div>
 

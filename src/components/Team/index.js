@@ -9,8 +9,8 @@ const Teams = () => {
             Our Team
           </h2>
           <p className="lg:w-6/12 lg:mx-auto">
-            Quam hic dolore cumque voluptate rerum beatae et quae, tempore sunt,
-            debitis dolorum officia aliquid explicabo? Excepturi, voluptate?
+            {/* Quam hic dolore cumque voluptate rerum beatae et quae, tempore sunt,
+            debitis dolorum officia aliquid explicabo? Excepturi, voluptate? */}
           </p>
         </div>
       </div>
@@ -47,7 +47,7 @@ const Teams = () => {
           <div className="flex flex-col items-start mb-16 text-left lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 md:mb-0">
             <h2 className="mb-8 text-xs font-semibold tracking-widest text-black uppercase title-font">
               {" "}
-              Your tagline{" "}
+              {/* Your tagline{" "} */}
             </h2>
             <h1 className="mb-8 text-2xl font-black tracking-tighter text-black md:text-5xl title-font">
               {" "}
