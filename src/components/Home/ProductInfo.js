@@ -17,7 +17,7 @@ const ProductInfo = () => {
             {prop.tittle}
           </h1>
           <div className="flex justify-center">
-            <a href="/teams" className="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">View</a>
+            <a href="/products" className="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">View</a>
             {/* <button action="/teams "className="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg"> */}
               {/* View
             </button> */}
