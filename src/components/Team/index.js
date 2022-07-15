@@ -28,7 +28,7 @@ const Teams = () => {
 
           <div className="py-5 text-center">
             <a href="/teams" className="block text-2xl font-bold text-gray-800">
-              John Doe
+              {data.name}
             </a>
             <span className="text-sm text-left text-gray-700 ">{data.desc}</span>
             <br />
