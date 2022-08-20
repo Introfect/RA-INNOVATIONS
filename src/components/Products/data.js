@@ -11,6 +11,12 @@ const data=[
         title:"Turmeric Oil",
         desc:"",
         id:2
+    },
+    {
+        img:"/img/CarbonQuantumDots.jpeg",
+        title:"Carbon Quantum ots.jpeg",
+        desc:"",
+        id:3
     }
 ]
 

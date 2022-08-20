@@ -13,7 +13,14 @@ const ProductContent =[
         desc:"Meggings kinfolk echo park stumptown DIY, kale chips beardjianbing tousled. Chambray dreamcatcher trust fund, kitsch vice disrupt ramps hexagon mustache umami snackwave tild chillwave ugh. Pour-over meditation PBR&amp;B pickled ennui celiac mlkshk freegan photo booth af fingerstache pitchfork.",
         img:"./img/TurmericOil.jpg",
     },
-    
+    {
+      key:3,
+      alt:"Carbon Quantum Dots",
+      tittle:"Carbon Quantum Dots",
+      desc:"Meggings kinfolk echo park stumptown DIY, kale chips beardjianbing tousled. Chambray dreamcatcher trust fund, kitsch vice disrupt ramps hexagon mustache umami snackwave tild chillwave ugh. Pour-over meditation PBR&amp;B pickled ennui celiac mlkshk freegan photo booth af fingerstache pitchfork.",
+      img:"./img/CarbonQuantumDots.jpeg",
+  }
+  
     
 ];
 export default ProductContent;
