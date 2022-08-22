@@ -21,7 +21,7 @@ const Teams = () => {
         { members.map((data)=>(
         <div className="max-w-md py-10 mx-auto overflow-hidden bg-white rounded-lg shadow-lg">
           <img
-            className="object-cover w-full h-56"
+            className="object-cover w-full h-90"
             src={data.img}
             alt={data.alt}
                 />

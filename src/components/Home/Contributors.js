@@ -6,7 +6,7 @@ const Contributors = () => {
       <div key={data.key}>
         <div className="max-w-sm mx-auto overflow-hidden bg-white rounded-lg shadow-lg ">
           <img
-            className="object-cover object-center w-full h-56"
+            className="object-cover object-center w-80 h-full"
             src={data.img}
             alt={data.alt}
           />
